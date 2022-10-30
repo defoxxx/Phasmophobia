@@ -15,3 +15,5 @@ Project Rencify
 
 Обновляю на каждое обновление игры
 скачать можно здесь - https://github.com/defoxxx/Phasmophobia/releases/download/rencify/ProjectRencify.dll
+
+Инжектор - https://github.com/defoxxx/cheats/releases/download/ex/Extreme.Injector.v3.exe

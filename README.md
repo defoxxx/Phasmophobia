@@ -16,3 +16,6 @@ Project Rencify
 Обновляю на каждое обновление игры
 
 чит скачать можно здесь - https://github.com/defoxxx/Phasmophobia/releases/download/rencify/Project.Rencify.zip
+
+
+другой инжектор на всякий случай - https://github.com/defoxxx/cheats/releases/download/ex/Extreme.Injector.v3.exe

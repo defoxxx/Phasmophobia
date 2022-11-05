@@ -17,4 +17,4 @@ Project Rencify
 
 чит скачать можно здесь - https://github.com/defoxxx/Phasmophobia/releases/download/rencify/Project.Rencify.zip
  
-длл - https://github.com/defoxxx/Phasmophobia/releases/download/rencify/ProjectRencify.dll
+длл - https://github.com/defoxxx/Phasmophobia/releases/

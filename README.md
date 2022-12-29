@@ -15,4 +15,4 @@ Project Rencify
 
 Обновляю на каждое обновление игры
 
-чит скачать можно здесь - https://github.com/defoxxx/Phasmophobia/releases/download/rencify/1234.dll
+чит скачать можно здесь - https://github.com/defoxxx/Phasmophobia/releases/download/rencify/ProjectRencify.5.dll

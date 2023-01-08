@@ -18,4 +18,4 @@ Project Rencify
 
 открываем прогу и нажимаем 1 кнопку
 
-чит скачать можно здесь - https://github.com/defoxxx/Phasmophobia/releases/download/rencify/PRInjector.exe
+чит скачать можно здесь - https://github.com/defoxxx/Phasmophobia/releases/download/rencify/ProjectRencify.dll
